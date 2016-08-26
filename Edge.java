@@ -38,5 +38,6 @@ public class Edge {
     public boolean equals(Object o) {
         Edge other = (Edge) o;
         return (v1.equals(other.getV1()) && v2.equals(other.getV2()));
+        
     }
 }
