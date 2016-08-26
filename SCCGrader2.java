@@ -1,9 +1,4 @@
-/**
- * @author UCSD MOOC development team
- *
- * Grader for the SCC assignment.
- *
- */
+
 
 package com.grader;
 
